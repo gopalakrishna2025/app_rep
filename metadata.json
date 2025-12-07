@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust AI - Travel Assistant",
+  "description": "An intelligent travel companion powered by Gemini 2.5. Plan trips, find local gems, and explore the world with real-time data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
